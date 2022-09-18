@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e2688322.css",
+    "main.js": "/static/js/main.63ea0d6c.js",
+    "static/js/787.c1112931.chunk.js": "/static/js/787.c1112931.chunk.js",
+    "static/media/Portfolio-2.jpg": "/static/media/Portfolio-2.82144671741cc8487136.jpg",
+    "static/media/Portfolio-1.jpg": "/static/media/Portfolio-1.acbfc5659567c731a4c3.jpg",
+    "static/media/Portfolio-3.jpg": "/static/media/Portfolio-3.cac06c74ae68989585ee.jpg",
+    "static/media/Portfolio-4.jpg": "/static/media/Portfolio-4.85b1fb2cca743f9d0eff.jpg",
+    "static/media/user-icon.svg": "/static/media/user-icon.e7788651651635521666916696a53a90.svg",
+    "static/media/Portfolio-5.jpg": "/static/media/Portfolio-5.079a64d4d26daf0eabe5.jpg",
+    "static/media/blue-loader.svg": "/static/media/blue-loader.015a77ee5eaa14055ba05543dba3fb17.svg",
+    "static/media/loader.svg": "/static/media/loader.c18dc806ad66c4b05e363864ea8d54fc.svg",
+    "static/media/Cllct-Logo-White.svg": "/static/media/Cllct-Logo-White.d5ee5a3b2708a252caec2e1ff1b563a3.svg",
+    "static/media/logo-icon.svg": "/static/media/logo-icon.e8bf889e3ab2b1146a369ad051e4d52a.svg",
+    "index.html": "/index.html",
+    "static/media/search-icon.svg": "/static/media/search-icon.b9038608ef24252c33d4798a053b5347.svg",
+    "main.e2688322.css.map": "/static/css/main.e2688322.css.map",
+    "main.63ea0d6c.js.map": "/static/js/main.63ea0d6c.js.map",
+    "787.c1112931.chunk.js.map": "/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2688322.css",
+    "static/js/main.63ea0d6c.js"
+  ]
+}
